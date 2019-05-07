@@ -10,7 +10,7 @@ lazzbreak is a funny form ("fufo").
 
 Right clicking the lazzbreak block ... opens the puzzle fufo.
 
-Sam am his world do not make part of the fun, but without them, there were no funny forms.
+Sam and his world do not make part of the fun, but without them, there were no funny forms.
 
 So I guess lazzbreak can´t be called a mod.
 
