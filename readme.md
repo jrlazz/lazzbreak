@@ -7,6 +7,7 @@ Have to unzip textures and sounds folders
 lazzbreak is a funny form ("fufo").
 
 ![alt text](https://raw.githubusercontent.com/jrlazz/lazzbreak/master/lazzbreak_img.jpg)
+
 Right clicking the lazzbreak block ... opens the puzzle fufo.
 
 Sam am his world do not make part of the fun, but withot them, there were no funny forms.
