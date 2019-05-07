@@ -14,4 +14,4 @@ Sam am his world do not make part of the fun, but without them, there were no fu
 
 So I guess lazzbreak can´t be called a mod.
 
-The fufo is a pastime, mybe like solitaire, freecell, etc. and may or not be a game.
+The fufo is a pastime, mybe like solitaire, freecell, etc., and may or not be a game.
