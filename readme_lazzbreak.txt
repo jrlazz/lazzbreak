@@ -1,1 +1,0 @@
-﻿Please unzip textures and sounds zip files.
